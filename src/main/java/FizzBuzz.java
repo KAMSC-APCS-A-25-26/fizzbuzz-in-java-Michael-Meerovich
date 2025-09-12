@@ -11,7 +11,7 @@ public class FizzBuzz {
     public static void main(String[] args)
     {
         // TODO
-        for (int k = 0; k <= 100; ++k)
+        for (int k = 1; k <= 100; ++k)
         {
             if (k % 3 == 0 && k % 5 == 0)
             {
